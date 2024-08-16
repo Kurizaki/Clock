@@ -1,0 +1,15 @@
+C:\Users\Marek von Rogall\source\repos\clock\clock\bin\Debug\clock.exe.config
+C:\Users\Marek von Rogall\source\repos\clock\clock\bin\Debug\clock.exe
+C:\Users\Marek von Rogall\source\repos\clock\clock\bin\Debug\clock.pdb
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.csproj.AssemblyReference.cache
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\MainWindow.g.cs
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\App.g.cs
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock_MarkupCompile.cache
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock_MarkupCompile.lref
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\MainWindow.baml
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.g.resources
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.exe
+C:\Users\Marek von Rogall\source\repos\clock\clock\obj\Debug\clock.pdb
